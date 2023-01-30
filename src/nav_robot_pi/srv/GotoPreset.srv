@@ -1,0 +1,6 @@
+uint8 token
+float32 panSpeed
+float32 tiltSpeed
+float32 zoomSpeed
+---
+int32 status
